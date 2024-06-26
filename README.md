@@ -1,2 +1,2 @@
-# diiner_project
+# dinner_project
 夕飯
